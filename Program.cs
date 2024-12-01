@@ -7,6 +7,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//se agregan lasinyecciópn de dependencias
+//forma 1
+builder.Services.AddScoped<IAppService, AppService>();
+//forma 2
+//builder.Services.AddScoped<IAppService>(e => new AppService());
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

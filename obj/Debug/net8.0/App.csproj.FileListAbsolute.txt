@@ -30,3 +30,4 @@ C:\Users\framirez\projects\platzi\curso-api-net\App\obj\Debug\net8.0\refint\App.
 C:\Users\framirez\projects\platzi\curso-api-net\App\obj\Debug\net8.0\App.pdb
 C:\Users\framirez\projects\platzi\curso-api-net\App\obj\Debug\net8.0\App.genruntimeconfig.cache
 C:\Users\framirez\projects\platzi\curso-api-net\App\obj\Debug\net8.0\ref\App.dll
+C:\Users\framirez\projects\platzi\curso-api-net\App\obj\Debug\net8.0\App.sourcelink.json
