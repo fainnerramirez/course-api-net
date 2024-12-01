@@ -10,6 +10,7 @@ public class AppController : ControllerBase
         _appService = appService;
     }
 
+    [HttpGet]
     public IActionResult Get(){
         var result = _appService.GetStringApp();
         return Ok(result);
